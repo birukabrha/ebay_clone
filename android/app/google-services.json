@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "510761130702",
+    "project_id": "ebay-clone-9248a",
+    "storage_bucket": "ebay-clone-9248a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510761130702:android:b500604f8d44ac44454e9f",
+        "android_client_info": {
+          "package_name": "com.example.ebay_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510761130702-lm9ask9pq0thahtnjj5gc0nmlfmqne1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Kn2MNfh8AncJsmN6iiQzKFq-vIy68HQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510761130702-lm9ask9pq0thahtnjj5gc0nmlfmqne1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
